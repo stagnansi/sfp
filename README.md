@@ -1,5 +1,5 @@
 # How to use
-To embed your selected fonts into a webpage, copy this code into the head of your HTML document.
+To embed the fonts into a webpage, copy this code into the head of your HTML document.
 
 Standard version:
 ````html
