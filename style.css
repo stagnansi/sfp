@@ -1,20 +1,6 @@
 @font-face {
   font-family: SF Pro Display;
   font-style: normal;
-  font-weight: 400;
-  src: local('SF Pro Display'),url(https://raw.githubusercontent.com/stagnansi/sfp/main/SF-Pro-Display-Regular.woff) format('woff')
-}
-
-@font-face {
-  font-family: SF Pro Display;
-  font-style: italic;
-  font-weight: 400;
-  src: local('SF Pro Display'),url(https://raw.githubusercontent.com/stagnansi/sfp/main/SF-Pro-Display-RegularItalic.woff) format('woff')
-}
-
-@font-face {
-  font-family: SF Pro Display;
-  font-style: normal;
   font-weight: 500;
   src: local('SF Pro Display'),url(https://raw.githubusercontent.com/stagnansi/sfp/main/SF-Pro-Display-Medium.woff) format('woff')
 }
