@@ -2,54 +2,54 @@
   font-family: SF Pro Display;
   font-style: normal;
   font-weight: 600;
-  src: local('SF Pro Display'),url(./SF-Pro-Display-Semibold.woff) format('woff')
+  src: local('SF Pro Display'),url(https://raw.githubusercontent.com/stagnansi/sfp/main/SF-Pro-Display-Semibold.woff) format('woff')
 }
 
 @font-face {
   font-family: SF Pro Display;
   font-style: italic;
   font-weight: 600;
-  src: local('SF Pro Display'),url(./SF-Pro-Display-SemiboldItalic.woff) format('woff')
+  src: local('SF Pro Display'),url(https://raw.githubusercontent.com/stagnansi/sfp/main/SF-Pro-Display-SemiboldItalic.woff) format('woff')
 }
 
 @font-face {
   font-family: SF Pro Display;
   font-style: normal;
   font-weight: 700;
-  src: local('SF Pro Display'),url(./SF-Pro-Display-Bold.woff) format('woff')
+  src: local('SF Pro Display'),url(https://raw.githubusercontent.com/stagnansi/sfp/main/SF-Pro-Display-Bold.woff) format('woff')
 }
 
 @font-face {
   font-family: SF Pro Display;
   font-style: italic;
   font-weight: 700;
-  src: local('SF Pro Display'),url(./SF-Pro-Display-BoldItalic.woff) format('woff')
+  src: local('SF Pro Display'),url(https://raw.githubusercontent.com/stagnansi/sfp/main/SF-Pro-Display-BoldItalic.woff) format('woff')
 }
 
 @font-face {
   font-family: SF Pro Display;
   font-style: normal;
   font-weight: 800;
-  src: local('SF Pro Display'),url(./SF-Pro-Display-Black.woff) format('woff')
+  src: local('SF Pro Display'),url(https://raw.githubusercontent.com/stagnansi/sfp/main/SF-Pro-Display-Black.woff) format('woff')
 }
 
 @font-face {
   font-family: SF Pro Display;
   font-style: italic;
   font-weight: 800;
-  src: local('SF Pro Display'),url(./SF-Pro-Display-BlackItalic.woff) format('woff')
+  src: local('SF Pro Display'),url(https://raw.githubusercontent.com/stagnansi/sfp/main/SF-Pro-Display-BlackItalic.woff) format('woff')
 }
 
 @font-face {
   font-family: SF Pro Display;
   font-style: normal;
   font-weight: 900;
-  src: local('SF Pro Display'),url(./SF-Pro-Display-Heavy.woff) format('woff')
+  src: local('SF Pro Display'),url(https://raw.githubusercontent.com/stagnansi/sfp/main/SF-Pro-Display-Heavy.woff) format('woff')
 }
 
 @font-face {
   font-family: SF Pro Display;
   font-style: italic;
   font-weight: 900;
-  src: local('SF Pro Display'),url(./SF-Pro-Display-HeavyItalic.woff) format('woff')
+  src: local('SF Pro Display'),url(https://raw.githubusercontent.com/stagnansi/sfp/main/SF-Pro-Display-HeavyItalic.woff) format('woff')
 }
