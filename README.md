@@ -1,3 +1,6 @@
+# Notes
+It's San Francisco Pro Display font from Apple, but it's start from Semi Bold (600) until Heavy (900), Italic included.
+
 # How to use
 To embed the fonts into a webpage, copy this code into the head of your HTML document.
 
