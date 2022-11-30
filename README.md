@@ -6,13 +6,13 @@ To embed the fonts into a webpage, copy this code into the head of your HTML doc
 
 Standard version:
 ````html
-<link href="https://rawcdn.githack.com/stagnansi/sfp/e544762a52e6648f2cd6adb6632470148cdc4a43/style.css" rel="stylesheet">
+<link href="https://stagnansi.github.io/sfp/ff.css" rel="stylesheet">
 ````
 
 Or, import:
 ````html
 <style>
-	@import url('https://rawcdn.githack.com/stagnansi/sfp/e544762a52e6648f2cd6adb6632470148cdc4a43/style.css');
+	@import url('https://stagnansi.github.io/sfp/ff.css');
 </style>
 ````
 
